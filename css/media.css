@@ -1,0 +1,51 @@
+@media only screen and (MAX-width: 768px){
+    .div2,.h4,.div6,.div22,.div8,.div10{
+         width:80%; 
+         margin-left:100px;   
+     }
+     h1{
+         font-size:30px;
+     }
+
+}
+@media only screen and (MAX-width: 768px){
+    .div7{
+         width:80%; 
+         margin-left:100px;   
+         margin-bottom: 200px;
+     }
+     h1{
+         font-size:30px;
+     }
+
+}
+@media only screen and (MAX-width: 768px){
+    .img1{
+         width:80%; 
+         margin-left:100px;   
+         margin-bottom: 200px;
+     }
+     h1{
+         font-size:30px;
+     }
+
+}
+@media only screen and (MAX-width: 768px){
+    .d1,.d2,.d3,.d4,.d5,.d6,.d7,.d8{
+         width:100%; 
+     }
+     h1{
+         font-size:30px;
+     }
+
+}
+@media only screen and (MAX-width: 768px){
+    .b1,.b2,.b3,.b4,.b5,.b6,.b7,.b8{
+         width:50%; 
+         float: left;
+     }
+     h1{
+         font-size:30px;
+     }
+
+}
